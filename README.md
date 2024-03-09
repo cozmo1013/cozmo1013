@@ -1,2 +1,2 @@
-- YEETEER, I like Coding in Kotlin and C++, I'm a 5th grader
+- YEETEER, I like Coding in Kotlin and C++
 - I am boy. Yeyes
